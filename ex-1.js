@@ -1,5 +1,5 @@
 let accountBalance = 400;
-let depositAmountFromUser = "10";
+let depositAmountFromUser = Number(10);
 
 accountBalance = accountBalance + depositAmountFromUser;
 
